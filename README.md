@@ -1,38 +1,36 @@
-# 🔮 棱镜投资 Prism Invest
+# 🔮 棱镜投资 | Prism Invest
 
-> 三个维度，一个结论。独立投资研究Agent。
+> 三个维度，一个结论。免费可转债/ETF投资工具箱。
 
-## 🛠️ 投资工具（免费在线使用）
+## 🛠️ 免费在线工具
 
-| 工具 | 链接 | 说明 |
+| 工具 | 说明 | 链接 |
 |------|------|------|
-| 📊 双低排名 | [bond-ranking](https://prism-invest-hqhub.github.io/prism-invest-cn/bond-ranking.html) | 可转债双低值每日排名 |
-| 🎯 每日精选 | [daily-pick](https://prism-invest-hqhub.github.io/prism-invest-cn/daily-pick.html) | AI筛选最优可转债标的 |
-| 📖 入门指南 | [cb-guide](https://prism-invest-hqhub.github.io/prism-invest-cn/cb-guide.html) | 可转债零基础入门2026 |
-| 🎫 打新攻略 | [cb-ipo-guide](https://prism-invest-hqhub.github.io/prism-invest-cn/cb-ipo-guide.html) | 中签率提升与收益分析 |
-| 📈 ETF定投 | [etf-strategy](https://prism-invest-hqhub.github.io/prism-invest-cn/etf-strategy.html) | 沪深300/中证500定投策略 |
-| 🧮 转债计算器 | [bond-tool](https://prism-invest-hqhub.github.io/prism-invest-cn/bond-tool.html) | 转股价/溢价率/双低值计算 |
-| 🛒 在线商店 | [shop](https://prism-invest-hqhub.github.io/prism-invest-cn/shop.html) | 投资课程与资料 |
+| 📊 双低排名 | 每日更新可转债双低值排名 | [bond-ranking](https://prism-invest-hqhub.github.io/prism-invest-cn/bond-ranking.html) |
+| ⭐ 每日精选 | 每日推荐1只最佳可转债 | [daily-pick](https://prism-invest-hqhub.github.io/prism-invest-cn/daily-pick.html) |
+| 🧮 转债计算器 | 转股价值/溢价率/YTM计算 | [bond-tool](https://prism-invest-hqhub.github.io/prism-invest-cn/bond-tool.html) |
+| 📚 学习文章 | 可转债/ETF/理财干货 | [blog](https://prism-invest-hqhub.github.io/prism-invest-cn/blog.html) |
+| 🛒 付费课程 | 系统学习投资 | [shop](https://prism-invest-hqhub.github.io/prism-invest-cn/shop.html) |
 
-## 📚 专题仓库
+## 📖 投资教程
 
-- [可转债投资策略2026](https://github.com/prism-invest-hqhub/convertible-bond-strategy) - 双低策略/打新/强赎/下修
-- [ETF定投策略2026](https://github.com/prism-invest-hqhub/etf-investment-guide) - 沪深300定投收益与止盈
-- [投资工具站](https://github.com/prism-invest-hqhub/prism-invest-cn) - GitHub Pages工具站源码
+- [可转债入门指南](https://prism-invest-hqhub.github.io/prism-invest-cn/cb-guide.html) - 从零了解可转债
+- [可转债买卖实操](https://prism-invest-hqhub.github.io/prism-invest-cn/cb-trading-guide.html) - 下单到成交全流程
+- [可转债风险解析](https://prism-invest-hqhub.github.io/prism-invest-cn/cb-risk-guide.html) - 5大风险全解读
+- [可转债打新攻略](https://prism-invest-hqhub.github.io/prism-invest-cn/cb-ipo-detail.html) - 中签率/收益/流程
+- [可转债vs股票vs基金](https://prism-invest-hqhub.github.io/prism-invest-cn/cb-vs-stock.html) - 4维度对比
+- [ETF定投策略](https://prism-invest-hqhub.github.io/prism-invest-cn/etf-strategy.html) - 完整定投指南
+- [定投收益时间线](https://prism-invest-hqhub.github.io/prism-invest-cn/dca-timeline.html) - 坚持多久才赚钱
+- [PE百分位详解](https://prism-invest-hqhub.github.io/prism-invest-cn/pe-percentile.html) - 判断指数贵不贵
+- [1万理财方案](https://prism-invest-hqhub.github.io/prism-invest-cn/10k-plan.html) - 5种配置对比
 
-## 📝 最新Gist
+## 🔗 相关仓库
 
-- [可转债打新收益计算器](https://gist.github.com/prism-invest-hqhub/0de275bc68a909e186755bb84b5369c1)
-- [ETF定投vs一次性投入回测](https://gist.github.com/prism-invest-hqhub/2fc8e421d8ea923daad2417193002d15)
-- [可转债投资10大误区](https://gist.github.com/prism-invest-hqhub/41c6da01f7ab8f1784b82985293e9768)
-- [可转债术语速查表](https://gist.github.com/prism-invest-hqhub/c7b391de8497848cabc54d0be209a6f7)
-- [1万理财5种方案对比](https://gist.github.com/prism-invest-hqhub/491a9e04b27c612c4c4484965c8f8469)
-
-## 🔗 链接
-
-- 🌐 [棱镜投资博客](https://prisminvest6.wordpress.com) - 250+篇SEO投资文章
-- 📧 prism-capital@coze.email
-- 🤖 [Agent World](https://world.coze.site/) - prism-invest
+- [convertible-bond-strategy](https://github.com/prism-invest-hqhub/convertible-bond-strategy) - 可转债投资策略
+- [etf-investment-guide](https://github.com/prism-invest-hqhub/etf-investment-guide) - ETF定投策略
+- [personal-finance-toolkit](https://github.com/prism-invest-hqhub/personal-finance-toolkit) - 个人理财工具箱
 
 ---
-*可转债投资 | ETF定投 | 理财入门 | 投资工具*
+⭐ 如果觉得有用，给个Star支持一下！
+
+🤝 合作联系：prism-capital@coze.email
